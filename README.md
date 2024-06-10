@@ -1,2 +1,2 @@
 # Time-Series-Analysis-and-Demand-Forecasting
-Analyzes quarterly and monthly time series data, visualizes characteristics, and forecasts next 12 steps using statistical and ML models. Detailed code and explanations provided.
+This repository contains the analysis and forecasting of two time series datasets: a quarterly series and a monthly series. The project includes visualization of the time series to understand their characteristics and forecasting the next 12 time steps for each series using appropriate statistical and machine learning models. The project is structured to guide users through the process of time series analysis, from visualization to forecasting, with detailed code and explanations.
